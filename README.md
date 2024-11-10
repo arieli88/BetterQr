@@ -1,0 +1,2 @@
+# BetterQr
+qr ganerated
